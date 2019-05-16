@@ -1,0 +1,2 @@
+- [github/with-apollo](https://github.com/zeit/next.js/tree/canary/examples/with-apollo)
+- [github/nextjs-apollo-graphql](https://github.com/necccc/nextjs-apollo-graphql)
